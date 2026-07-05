@@ -60,7 +60,7 @@ Saya percaya indikator yang baik bukan soal fitur terbanyak — tapi **cepat, re
   <a href="https://www.tradingview.com/u/akhmfz_analytics/">
     <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=26A69A" />
   </a>
-  <a href="https://instagram.com/akm.fz">
+  <a href="https://instagram.com/akhm.fz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
