@@ -17,7 +17,7 @@ Saya percaya indikator yang baik bukan soal fitur terbanyak — tapi **cepat, re
 🔭 **Saat ini:** [Papan Instrumen](#) — fundamental dashboard, 7 dimensi scoring, sector-aware  
 🌱 **Belajar:** metodologi scoring (Piotroski, Altman, AQR), Pine Script optimization, teknikal analysis IDX  
 💬 **Tanya:** Pine Script, analisis fundamental IDX, desain scoring system, TradingView indicator  
-📫 **Kontak:** email / TradingView / LinkedIn di bawah
+📫 **Kontak:** email / TradingView / Instagram di bawah
 
 ---
 
@@ -57,11 +57,11 @@ Saya percaya indikator yang baik bukan soal fitur terbanyak — tapi **cepat, re
   <a href="mailto:akhmfz.analytics@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.tradingview.com/u/akhmfz/">
+  <a href="https://www.tradingview.com/u/akhmfz_analytics/">
     <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=26A69A" />
   </a>
-  <a href="https://linkedin.com/in/Akhmfz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/akm.fz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 <p align="center"><i>Building in public — feedback & kolaborasi selalu terbuka 🚀</i></p>
