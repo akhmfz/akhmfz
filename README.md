@@ -14,7 +14,7 @@ Saya membangun tools analisis saham Indonesia di **TradingView** menggunakan **P
 
 Saya percaya indikator yang baik bukan soal fitur terbanyak — tapi **cepat, relevan, dan jujur** soal keterbatasannya.
 
-🔭 **Saat ini:** [Papan Instrumen](#) — fundamental dashboard, 7 dimensi scoring, sector-aware  
+🔭 **Saat ini:** [Papan Instrumen](https://github.com/akhmfz/papan-instrumen) — fundamental dashboard, 7 dimensi scoring, sector-aware  
 🌱 **Belajar:** metodologi scoring (Piotroski, Altman, AQR), Pine Script optimization, teknikal analysis IDX  
 💬 **Tanya:** Pine Script, analisis fundamental IDX, desain scoring system, TradingView indicator  
 📫 **Kontak:** email / TradingView / Instagram di bawah
@@ -25,7 +25,7 @@ Saya percaya indikator yang baik bukan soal fitur terbanyak — tapi **cepat, re
 
 | Proyek | Deskripsi | Status | Link |
 |--------|-----------|--------|------|
-| **Papan Instrumen** | Fundamental Dashboard IDX — 7 dimensi, sector-aware scoring, opt-in Indonesia Factor | ✅ v0.1.0-alpha | [Repo](https://github.com/akhmfz/papan-instrumen) |
+| **Papan Instrumen** | Fundamental Dashboard IDX — 7 dimensi, sector-aware scoring, opt-in Indonesia Factor | ✅ v0.3.0-beta | [Repo](https://github.com/akhmfz/papan-instrumen) · [TradingView](https://www.tradingview.com/script/s4Bjqc7S-Saham-Papan-Instrumen-By-Akhmfz/) |
 | *Coming soon* | *Teknikal / hybrid indicator* | ⏳ R&D | — |
 
 ---
